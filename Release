@@ -1,0 +1,13 @@
+Origin: kalen-d
+Label: kalen-d
+Suite: stable
+
+Version: 0.1.1
+
+Codename: iOS
+
+Architectures: iphoneos-arm
+
+Components: main
+
+Description: beta

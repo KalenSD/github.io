@@ -1,0 +1,12 @@
+Package: LaunchInSafeMode
+Section: Utilities
+Maintainer: Deja-Wu
+Architecture: iphoneos-arm
+Version: 1.0.2-33+debug(iP7+)
+Depends: mobilesubstrate
+Filename: com.dejawu.launchinsafemode_1.0.2-33+debug_iphoneos-arm
+Size: 26.3
+Description: Launch any application in SafeMode (mobilesubstrate disabled)
+Name: LaunchInSafeMode
+Author: deja-wu <dejawu@protonmail.com>
+
